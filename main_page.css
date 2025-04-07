@@ -10,7 +10,7 @@ body, html {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: right;
     text-align: left;
     color: pink;
     position: relative;
